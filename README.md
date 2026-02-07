@@ -7,7 +7,6 @@ A fully functional basic e-commerce platform built with Django.
 - **User Authentication**: Secure registration and login functionality.
 - **Shopping Cart**: Session-based cart allowing users to add/remove items.
 - **Restricted Checkout**: Checkout process is locked to logged-in users only.
-- **Indian Rupee (₹) Support**: All prices are localized to INR.
 - **Admin Dashboard**: Custom link for staff to manage products and view orders.
 
 ## 🚀 Technical Stack
