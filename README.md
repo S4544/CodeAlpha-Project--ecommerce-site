@@ -1,4 +1,4 @@
-# Django E-Commerce Site - CodeAlpha  Project 
+#  E-Commerce Site - CodeAlpha  Project 
 
 A fully functional basic e-commerce platform built with Django.
 
